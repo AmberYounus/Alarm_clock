@@ -1,0 +1,10 @@
+c:\users\gotti\documents\visual studio 2015\Projects\Alarm_Clock\Alarm_Clock\bin\Debug\Alarm_Clock.exe.config
+c:\users\gotti\documents\visual studio 2015\Projects\Alarm_Clock\Alarm_Clock\obj\Debug\Alarm_Clock.Form1.resources
+c:\users\gotti\documents\visual studio 2015\Projects\Alarm_Clock\Alarm_Clock\obj\Debug\Alarm_Clock.Properties.Resources.resources
+c:\users\gotti\documents\visual studio 2015\Projects\Alarm_Clock\Alarm_Clock\obj\Debug\Alarm_Clock.csproj.GenerateResource.Cache
+C:\Users\Gotti\documents\visual studio 2015\Projects\Alarm_Clock\Alarm_Clock\bin\Debug\Alarm_Clock.exe
+C:\Users\Gotti\documents\visual studio 2015\Projects\Alarm_Clock\Alarm_Clock\bin\Debug\Alarm_Clock.pdb
+C:\Users\Gotti\documents\visual studio 2015\Projects\Alarm_Clock\Alarm_Clock\obj\Debug\Alarm_Clock.exe
+C:\Users\Gotti\documents\visual studio 2015\Projects\Alarm_Clock\Alarm_Clock\obj\Debug\Alarm_Clock.pdb
+C:\Users\Gotti\Documents\Visual Studio 2015\Projects\Alarm_Clock\Alarm_Clock\obj\Debug\Alarm_Clock.csprojAssemblyReference.cache
+C:\Users\Gotti\Documents\Visual Studio 2015\Projects\Alarm_Clock\Alarm_Clock\obj\Debug\Alarm_Clock.csproj.CoreCompileInputs.cache
